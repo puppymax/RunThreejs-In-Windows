@@ -1,1 +1,5 @@
-
+1、windows上开启IIS internet服务(安装IIS internet信息服务等)
+2、创建一个网站（myweb），绑定一个已知的本地文件夹，启用IIS服务
+3、安装npm，下载nodejs，直接安装
+4、使用npm安装http-server：使用命令 npm i -g http-server，然后键入命令http-server开启本地web服务器
+5、打开localhost，根据错误页中提示操作（把自定义网站（myweb）的目录浏览功能改为启用），将待显示的html拷贝至myweb文件夹，即可在浏览器中显示myweb所有目录
